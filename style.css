@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue;
+    color: darkslategray;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+    color: darkred;
+}
+
+b{
+    color: darkred;
+    font-size: 15px;
+}
+
+#camera, #result{
+    border: darkred 2px;
+    width: 350px;
+    height: 300px;
+}
